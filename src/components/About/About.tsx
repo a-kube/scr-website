@@ -1,4 +1,3 @@
-import React from 'react'
 import Testimonials from './Testimonials'
 import Team from './Team'
 import Sponsors from './Sponsors'
